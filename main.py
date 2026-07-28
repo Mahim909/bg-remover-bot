@@ -13,7 +13,7 @@ from telegram.ext import (
 from rembg import remove
 
 # 🔑 ১. আপনার টেলিগ্রাম বোট টোকেন
-BOT_TOKEN = "7969865800:AA..."
+BOT_TOKEN = "8648016296:AAGr1t2DXQiSKWxLh2BEOHCEZodeuZYoTxo"
 
 # 📢 ২. আপনার Monetag Direct Link
 MONETAG_AD_LINK = "https://omg10.com/4/10346272"
